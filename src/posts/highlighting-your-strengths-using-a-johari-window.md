@@ -1,15 +1,15 @@
 ---
 layout: layouts/post.njk
-title: Highlighting your strengths using a Johari Window
+title: Highlighting your strengths using a Johari window
 date: 2019-08-11T21:19:16.941Z
 tags:
   - articles
 ---
-Earlier in the year I came across Anna Shipman's [blog](https://www.annashipman.co.uk) in which she wrote about an exercise called a Johari Window. It's a way of highlighting strengths you might not recognise in yourself through feedback from your colleagues. Anna's [article](https://www.annashipman.co.uk/jfdi/johari-window.html) is well worth a read to get more context and you should definitly follow her on [Twitter](https://twitter.com/annashipman) 👌🏻. 
+Earlier in the year I came across Anna Shipman's [blog](https://www.annashipman.co.uk) in which she wrote about an exercise called a Johari window. It's a way of highlighting strengths you might not recognise in yourself through feedback from your colleagues. Anna's [article](https://www.annashipman.co.uk/jfdi/johari-window.html) is well worth a read to get more context and you should definitly follow her on [Twitter](https://twitter.com/annashipman) 👌🏻. 
 
 Feeling inspired I decided to have a go myself. This would be the first time I've proactively asked for feedback from my colleguges so I was feeling apprehensive. I'm used to receiving feedback during 1:1s and performance reviews so it felt a bit odd to be doing this off my own back. Would I be putting my collegues out? 
 
-To start a Johari Window you pick 5 or 6 adjectives which best describe you then send the full list to a few colleagues or team mates for them to pick too. The results are then split into 4 lists of strengths:
+To start a Johari window you pick 5 or 6 adjectives which best describe you then send the full list to a few colleagues or team mates for them to pick too. The results are then split into 4 lists of strengths:
 
 * Known to you and your colleagues
 * Known to you but not colleagues
@@ -63,20 +63,20 @@ Not know to me
 
 The results were in and... weren't too suprising. It's nice that people find me friendly although I don't feel particularly cheerful. Only one person picked quiet so maybe it's time to let go of that assumption about myself. The mighty [Heather Williams](https://twitter.com/helloxheather) suggested running through the results with a coach to keep my assumptions in check e.g. "I'm down as nervous! That must be from when I pair with people and sometimes I feel like I'm all over the place."
 
-At Auto Trader we're lucky to have access to coaches, so I had a conversation with mine around the Johari Window which led onto a deeper Strength Finder process.
+At Auto Trader we're lucky to have access to coaches, so I had a conversation with mine around the Johari window which led onto a deeper Strength Finder process.
 
 It's interesting to look back at these results 6 months later. At the time I didn't really see the benefit of supportive strengths. They seemed 'nice' but weren't really going to help 'get things done' or get me to Senior.
 I was looking for a way to have more 'sass and swagger' as I jokingly put it. To be a bit more dynamic.
 
 After going through the Strength Finder process and some coaching I've really taken onboard the benefit of supportive strengths. I've seen how valuable being supportive can be to a people and at the end of the day you're enabling other people, as well as yourelf, deliver for the company.
 
-Would I recommend a Johari Window? Yes, but I do have some reserverations:
+Would I recommend a Johari window? Yes, but I do have some reserverations:
 
 * Keep in mind that people are limited to only 6 responses so just because someone may have not picked a strength doesn't mean you don't display it.
 * It's hard not to make assumptions about a score as soon as you total it up.
 * I found it hard not to pick adjectives I thought other people would see in me rather than picking what I saw in myself.
 
-If you ever feel like asking for feedback I'd say go for it. And if you use a Johari Window just remember that the adjectives are open to interpretation as to how they surface themselves as strengths - it's the conversations around your interpretations and who you have these with which will have the real impact.
+If you ever feel like asking for feedback I'd say go for it. And if you use a Johari window just remember that the adjectives are open to interpretation as to how they surface themselves as strengths - it's the conversations around your interpretations and who you have these with which will have the real impact.
 
 
 
