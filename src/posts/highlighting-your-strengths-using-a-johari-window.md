@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Highlighting your strengths using a Johari window
+title: Highlight your strengths with a Johari window
 date: 2019-08-11T21:19:16.941Z
 tags:
   - articles
