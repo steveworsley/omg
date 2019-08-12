@@ -7,7 +7,7 @@ tags:
 ---
 Earlier in the year I came across Anna Shipman's [blog](https://www.annashipman.co.uk) in which she wrote about an exercise called a Johari window. It's a way of highlighting strengths you might not recognise in yourself through feedback from your colleagues. Anna's [article](https://www.annashipman.co.uk/jfdi/johari-window.html) is well worth a read to get more context and you should definitly follow her on [Twitter](https://twitter.com/annashipman) 👌🏻. 
 
-Feeling inspired I decided to have a go myself. This would be the first time I've proactively asked for feedback from my colleguges so I was feeling apprehensive. I'm used to receiving feedback during 1:1s and performance reviews so it felt a bit odd to be doing this off my own back. Would I be putting my collegues out? 
+Feeling inspired I decided to have a go myself. This would be the first time I've proactively asked for feedback from my colleagues so I was feeling apprehensive. I'm used to receiving feedback during 1:1s and performance reviews so it felt a bit odd to be doing this off my own back. Would I be putting my colleagues out? 
 
 To start a Johari window you pick 5 or 6 adjectives which best describe you then send the full list to a few colleagues or team mates for them to pick too. The results are then split into 4 lists of strengths:
 
@@ -22,11 +22,11 @@ Dependable, Helpful, Kind and Patient compliment each other and are part of the 
 
 I'm not sure if I would describe myself as quiet now but certainly have done so in the past (before I learnt the word introverted) 😂. But I do like to give my work my full attention, have time to reflect on conversations and if there's more than one other person in a discussion I'm generally happy to let them all waffle on. I don't push my opinions on others, maybe through fear of confrontration or because I don't particularly hold strong opinions. So what I'm trying to say is that I may come across as quiet to other people and that's probably why I picked it.
 
-Silly seems like a bit of a strange strength to have in a professional capacity but I try to take some inspiration from Judi Dench when she said "I think you should take your job seriously, but not yourself - that is the best combination." This strength helps me (hopefully) be a good father, show some vunerability and silliness my type of comedy. 
+Silly seems like a bit of a strange strength to have in a professional capacity but I try to take some inspiration from Judi Dench when she said "I think you should take your job seriously, but not yourself - that is the best combination." This strength helps me (hopefully) be a good father, show some vunerability and silliness is my type of comedy. 
 
 ## What did other people pick?
 
-I used survey monkey to send out my list of adjectives, as it allowed for grid like structure instead of a long list. I gave my collegues a couple of weeks to provide the feedback and sent out one reminder. I sent it to 10 colleagues and recieved 8 responses.
+I used survey monkey to send out my list of adjectives, as it allowed for grid like structure instead of a long list. I gave my colleagues a couple of weeks to provide the feedback and sent out one reminder. I sent it to 10 people and recieved 8 responses.
 
 ### Known to self and others
 
@@ -77,7 +77,3 @@ Would I recommend a Johari window? Yes, but I do have some reserverations:
 * I found it hard not to pick adjectives I thought other people would see in me rather than picking what I saw in myself.
 
 If you ever feel like asking for feedback I'd say go for it. And if you use a Johari window just remember that the adjectives are open to interpretation as to how they surface themselves as strengths - it's the conversations around your interpretations and who you have these with which will have the real impact.
-
-
-
-
