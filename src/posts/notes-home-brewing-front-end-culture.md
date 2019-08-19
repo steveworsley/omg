@@ -16,7 +16,7 @@ You can listen to the podcast over [here](https://frontendhappyhour.com/episodes
 What does front-end culture mean to you in your companies?
 
 * Having hiring practices and interview processes in place to hire for accessibility, performance, UX and Javascript over a traditional Computer Science skillset.
-* Admitting that no matter where on the stack people's skillsets sit we're all engineers. Have respect for each other and the work we do.
+* Admitting, that no matter where on the stack people's skillsets sit, we're all engineers. Have respect for each other and the work we do.
 * Having engineers who are passionate about front-end, who care about the it and can talk about it is a start.
 
 - - -
@@ -26,7 +26,7 @@ Challenges we face when creating a front-end culture:
 * Getting other engineers recognise the work going into front-end and to respect that building UI and UX is a completely different skill set.
 * What does full-stack even mean now? Every single layer of the stack has increased in depth and complexity.
 * What even is front-end? Front of the front-end, back of the front-end. Where do you start?
-* The range of work to be done across the front-end can be restricted by job roles and expectations. "Oh, you're front-end engineer then you just do Javascript.". There's almost not enough roles and titles to cater for the different types of work involved. Are you closer to APIs or Design?
+* The range of work to be done across the front-end can be restricted by job roles and expectations. "Oh, you're a front-end engineer then you just do Javascript.". There's almost not enough roles and titles to cater for the different types of work involved. Are you closer to APIs or Design?
 
 - - -
 
@@ -41,5 +41,5 @@ What can we do to tackle these challenges?
 * Maybe we should all be Software Engineers but with a specialism.
 * A valuable skillset often found in front-end engineers includes curiosity and empathy.
 * Often the pressure to build a front-end culture comes out of design - designers feel the pain of users more often.
-* Respect your back-end. Communciate with them. When showcasing call out their work which yours is built upon.
+* Respect your back-end. Communicate with them. When showcasing call out their work which yours is built upon.
  
