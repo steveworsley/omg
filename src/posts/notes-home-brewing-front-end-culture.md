@@ -17,13 +17,13 @@ What does front-end culture mean to you in your companies?
 
 * Having hiring practices and interview processes in place to hire for accessibility, performance, UX and Javascript over a traditional Computer Science skillset.
 * Admitting, that no matter where on the stack people's skillsets sit, we're all engineers. Have respect for each other and the work we do.
-* Having engineers who are passionate about front-end, who care about the it and can talk about it is a start.
+* Having engineers who are passionate about front-end, who care about it and can talk about it is a start.
 
 - - -
 
 Challenges we face when creating a front-end culture:
 
-* Getting other engineers recognise the work going into front-end and to respect that building UI and UX is a completely different skill set.
+* Getting other engineers to recognise the work going into front-end and to respect that building UI and UX is a completely different skill set.
 * What does full-stack even mean now? Every single layer of the stack has increased in depth and complexity.
 * What even is front-end? Front of the front-end, back of the front-end. Where do you start?
 * The range of work to be done across the front-end can be restricted by job roles and expectations. "Oh, you're a front-end engineer then you just do Javascript.". There's almost not enough roles and titles to cater for the different types of work involved. Are you closer to APIs or Design?
