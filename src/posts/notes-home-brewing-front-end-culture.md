@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Notes: Home-brewing front end culture'
+title: 'Front-end Happy Hour: Home-brewing front end culture'
 date: 2019-08-19T21:19:26.210Z
 tags:
   - notes

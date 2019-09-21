@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Notes: How Google Makes Managers Awesome'
+title: 'How Google Makes Managers Awesome'
 date: 2019-07-12T20:16:50.585Z
 tags:
   - notes

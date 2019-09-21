@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Notes: Experiential learning for developers'
+title: 'Lead Dev: Experiential learning for developers'
 date: 2019-07-03T18:43:20.640Z
 tags:
   - notes

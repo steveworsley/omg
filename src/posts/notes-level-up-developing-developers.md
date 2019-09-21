@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Notes: Level Up: Developing Developers'
+title: 'Lead Dev: Level Up - Developing Developers'
 date: 2019-07-05T20:15:32.271Z
 tags:
   - notes

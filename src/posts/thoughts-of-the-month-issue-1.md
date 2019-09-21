@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Thoughts of the Month - Issue 1
 date: 2019-08-11T20:22:19.623Z
 tags:
-  - TotM
+  - articles
 ---
 As a way to decompress 💆‍♂️ from work I write a few notes on the way home. I’ll add some details and related links then they get posted to Twitter [@iamsteveworsley](https://mobile.twitter.com/iamsteveworsley) and collected here for discussion. ⚡️
 

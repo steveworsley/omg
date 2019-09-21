@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Notes: Adopting Typescript at Scale'
+title: 'JS Conf: Adopting Typescript at Scale'
 date: 2019-08-08T20:21:04.318Z
 tags:
   - notes

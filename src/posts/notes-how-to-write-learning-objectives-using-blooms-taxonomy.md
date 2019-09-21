@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Notes: How to Write Learning Objectives Using Bloom''s Taxonomy'
+title: 'How to Write Learning Objectives Using Bloom''s Taxonomy'
 date: 2019-07-29T20:19:28.334Z
 tags:
   - notes
