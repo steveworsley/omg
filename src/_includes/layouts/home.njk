@@ -1,3 +1,5 @@
+{% import "partials/components/custom-post-list.njk" as customPostList %}
+
 {% extends 'layouts/base.njk' %}
 {% set pageType = 'Homepage' %}
 
@@ -18,9 +20,10 @@
 {% endif %}
 
 {% block content %}
-  <main id="main-content" tabindex="-1">
+  <main id="main-content" class="home" tabindex="-1">
     {% include "partials/components/intro.njk" %}
-    {% include "partials/components/post-list.njk" %}
+    {{ customPostList.customPostList(collections.articles, global, "Articles") }}
+    {{ customPostList.customPostList(collections.notes, global, "Notes") }}
     {% include "partials/components/pagination.njk" %}
   </main>
 {% endblock %}

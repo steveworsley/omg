@@ -1,7 +1,6 @@
 ---
 layout: home
 title: 'Oh, hello!'
-postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
