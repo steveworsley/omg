@@ -4,4 +4,14 @@
     text-decoration: none;
     color: var(--color-text);
   }
+
+  &__about {
+    max-width: 24rem;
+    border-left: 1px solid var(--color-theme-highlight);
+    padding-left: 25px;
+
+    p:first-child {
+      font-weight: 700;
+    }
+  }
 }

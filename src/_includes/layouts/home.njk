@@ -3,12 +3,6 @@
 {% extends 'layouts/base.njk' %}
 {% set pageType = 'Homepage' %}
 
-{# Intro content #}
-{% set introHeading = title %}
-{% set introSummary %}
-  {{ content | safe }}
-{% endset %}
-
 {# Post list content #}
 {% set postListHeading = postsHeading %}
 {% set postListItems = collections.postFeed %}
@@ -21,7 +15,6 @@
 
 {% block content %}
   <main id="main-content" class="home" tabindex="-1">
-    {% include "partials/components/intro.njk" %}
     {{ customPostList.customPostList(collections.articles, global, "Articles") }}
     {{ customPostList.customPostList(collections.notes, global, "Notes") }}
     {% include "partials/components/pagination.njk" %}
