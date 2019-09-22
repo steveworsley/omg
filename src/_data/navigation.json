@@ -1,19 +1,40 @@
 {
   "items": [
     {
-      "text": "Home",
+      "text": "Start",
       "url": "/",
-      "external": false
+      "external": false,
+      "summary": "Get back to the beginning"
     },
     {
       "text": "Personal",
       "url": "http://steveworsley.com",
-      "external": true
+      "external": true,
+      "summary": "My non-tech related writing"
+    },
+    {
+      "text": "Articles",
+      "url": "/tags/articles/",
+      "external": false,
+      "summary": "My tech related writing"
     },
     {
       "text": "Twitter",
       "url": "https://twitter.com/iamsteveworsley",
-      "external": true
+      "external": true,
+      "summary": "Knowledge bombs / brain farts"
+    },
+    {
+      "text": "Notes",
+      "url": "/tags/notes/",
+      "external": false,
+      "summary": "Talks and books summerised"
+    },
+    {
+      "text": "ಠ_ಠ",
+      "url": "https://giphy.com/search/cute-kittens",
+      "external": true,
+      "summary": "In case of emergency, click here"
     }
   ]
 }
