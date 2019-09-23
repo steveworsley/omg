@@ -9,41 +9,39 @@ In 'After the launch: the difficult teenage years' [Anna Shipman](https://www.an
 
 Checkout the video here: https://youtu.be/EkfqgQXfEv8
 
-[![After the launch: the difficult teenage years](https://img.youtube.com/vi/FI-WvXYCmIM/0.jpg)](https://www.youtube.com/watch?v=EkfqgQXfEv8 "After the launch: the difficult teenage years")
+[![After the launch: the difficult teenage years](https://img.youtube.com/vi/EkfqgQXfEv8/1.jpg)](https://www.youtube.com/watch?v=EkfqgQXfEv8 "After the launch: the difficult teenage years")
 
 ## Notes
 
-. FT has an engagement score Recency Frequency and Volume. Hitting over 18 will mean you’re likely to resubscribe.
+* FT has an engagement score Recency Frequency and Volume. Hitting over 18 will mean you’re likely to resubscribe.
 
-. The FT experimented with slowing down the site for users to see what impact that had
+* The FT experimented with slowing down the site for users to see what impact that had
 
-Difficult teenage years -
+### What were the difficult teenage years?
 
-Lack of clear vision
-Tech drifting off track
-Things not communicated as well as they used to
+* Lack of clear vision
+* Tech drifting off track
+* Things not communicated as well as they used to
 
-Strategy
+### Strategy
 
-Diagnosis 
-Vision
-How to get there
+1. Diagnosis 
+2. Vision
+3. How to get there
 
-Vision - what does good look like?
+#### Vision 
 
-Might be that vision after launch is same as for launch
-FT got an external facilitator to set the vision because there were a lot of people involved who had ownership
+* What does good look like?
+* Might be that vision after launch is same as for launch
+* FT got an external facilitator to set the vision because there were a lot of people involved who had ownership
+* Vision is crucial and you’ll have to work harder to defend that vision
+* Use the vision to communicate where we are heading
 
-. Vision is crucial and you’ll have to work harder to defend that vision
-. Use the vision to communicate where we are heading
+#### How to get there
 
-Highest impact areas to work on
-
-Tell people what the next steps are
-
-You must communicate your vision
-
-It will be new to someone every time you say it
+* Highest impact areas to work on
+* Tell people what the next steps are
+* You must communicate your vision. It will be new to someone every time you say it
 
 You can have the best vision or strategy but if no one knows about it it’s worthless
 
