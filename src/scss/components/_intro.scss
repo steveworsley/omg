@@ -1,5 +1,8 @@
 .intro {
-  background: var(--color-theme-highlight-block);
+  border-top: 10px solid var(--color-theme-highlight);
+  background-color: #00ced1;
+  margin: 0 -1.25rem;
+
 
   &__summary {
     --flow-space: #{get-size(500)};
@@ -16,10 +19,14 @@
 
   &__heading {
     max-width: 40ex;
-    color: var(--color-theme-feature-text);
+    color: #005052;
 
     &--compact {
       max-width: 20ex;
     }
+  }
+
+  &__meta {
+    color: #005052;
   }
 }

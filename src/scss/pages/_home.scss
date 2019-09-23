@@ -1,5 +1,20 @@
 .home {
     border-top: 10px solid var(--color-theme-highlight);
+    background-color: darkturquoise;
+
+    .post-list__heading {
+        color: white;
+    }
+
+    .post-list__link, time {
+        color: #005052;
+    }
+
+    @include media-query('micro') {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 1.25rem;
+      }
 
     section:first-of-type {
         margin-bottom: 0;

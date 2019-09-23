@@ -14,7 +14,7 @@
 {% endif %}
 
 {% block content %}
-  <main id="main-content" class="home" tabindex="-1">
+  <main id="main-content" class="home wrapper" tabindex="-1">
     {{ customPostList.customPostList(collections.articles, global, "Articles") }}
     {{ customPostList.customPostList(collections.notes, global, "Notes") }}
     {% include "partials/components/pagination.njk" %}
