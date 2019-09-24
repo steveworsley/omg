@@ -13,17 +13,18 @@ Checkout the video here: https://youtu.be/EkfqgQXfEv8
 
 ## Notes
 
-* FT has an engagement score Recency Frequency and Volume. Hitting over 18 will mean you’re likely to resubscribe.
+* The FT use an engagement score RFV (Recency, Frequency and Volume). Hitting over 18.2 will mean you’re likely to resubscribe. This means they can focus their attention on things which get users engagement above this value.
 
-* The FT experimented with slowing down the site for users to see what impact that had
+* The FT experimented with running an A/B test to slow down the site for some users to see what impact that had. This allowed them to create compelling data for improving performance.
 
 ### What were the difficult teenage years?
 
 * Lack of clear vision
 * Tech drifting off track
-* Things not communicated as well as they used to
+* Things not communicated as well as they used to be
 
 ### Strategy
+What does a good strategy consist of?
 
 1. Diagnosis 
 2. Vision
@@ -31,18 +32,15 @@ Checkout the video here: https://youtu.be/EkfqgQXfEv8
 
 #### Vision 
 
-* What does good look like?
+* What does good look like for your project?
 * Might be that vision after launch is same as for launch
-* FT got an external facilitator to set the vision because there were a lot of people involved who had ownership
-* Vision is crucial and you’ll have to work harder to defend that vision
+* The FT brought on an external facilitator to help with the FT.com product vision because there were a lot of people involved who had ownership in the new site. Big discussions need facilitating.
+* Vision is crucial and you’ll have to work harder to defend that vision after launch
 * Use the vision to communicate where we are heading
 
 #### How to get there
 
-* Highest impact areas to work on
+* Identify the highest impact areas to work on
 * Tell people what the next steps are
-* You must communicate your vision. It will be new to someone every time you say it
-
-You can have the best vision or strategy but if no one knows about it it’s worthless
-
-
+* You must communicate the vision. You must communicate your tech priorties. It will be new to someone every time you say it
+* You can have the best vision or strategy but if no one knows about it it’s worthless
